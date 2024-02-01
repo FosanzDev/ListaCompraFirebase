@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2519833208",
+    "project_id": "listacompra-42323",
+    "storage_bucket": "listacompra-42323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2519833208:android:a95fefb66b2032b2c2eb8d",
+        "android_client_info": {
+          "package_name": "com.fosanzdev.listacomprafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqtRQ4h8nObMFD4rEWmSSfQl_UnikZ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
